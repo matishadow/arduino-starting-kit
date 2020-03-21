@@ -1,0 +1,5 @@
+{
+    "sketch": "project-3-love-o-meter-v2.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0"
+}
